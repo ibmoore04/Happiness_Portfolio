@@ -395,9 +395,11 @@ body {
 
 /* CTA */
 .cta {
-  background: linear-gradient(90deg, #1e2aa8, #4e3ce6);
+  background-color: #1e2aa8;
+  background-size: cover;
+  background-position: center;
   color: #fff;
-  padding: 120px 0; /* taller */
+  padding: 120px 0;
   min-height: 360px;
   display: flex;
   align-items: center;
